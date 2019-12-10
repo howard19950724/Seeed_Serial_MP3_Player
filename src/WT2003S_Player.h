@@ -141,4 +141,4 @@ class WT2003S
 	void getSPIFLashMp3Data(char *data,uint16_t address,uint16_t len);
 };
 
-#endif;
+#endif
